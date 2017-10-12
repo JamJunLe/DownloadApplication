@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DownloadApplication</string>
+    <string name="action_settings">Settings</string>
+    <string name="download_status_downloading">下载中</string>
+    <string name="download_status_pause">暂停</string>
+    <string name="download_status_finished">完成</string>
+</resources>
